@@ -18,14 +18,14 @@ The project focuses on three main areas:
 ecommerce-sales-analysis/
 │
 ├── notebooks/
-│   └── ecommerce_analysis.ipynb
+│   └── E_commerce_analysis.ipynb
 │
 ├── tableau/
-│   └── Ecommerce_Performance_Dashboard.twbx
+│   └── E-commerce_Performance_Dashboard.twbx
 │
 ├── images/
-│   ├── dashboard_page_1.png
-│   └── dashboard_page_2.png
+│   ├── dashboard 1.png
+│   └── dashboard 2.png
 │
 └── README.md
 ```
